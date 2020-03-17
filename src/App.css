@@ -1,0 +1,47 @@
+.text-center{
+    text-align: center
+}
+.content-wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.chart-padding-new{
+    padding: 10px!important;
+}
+
+.flatpickr-input {
+    background-color: #fff!important;
+    background-clip: border-box!important;
+    border: 1px solid rgba(0, 0, 0, 0.125)!important;
+    padding: 0 10px!important;
+    letter-spacing: 0.05em!important;
+    
+    width: calc(100% - 85px);
+    padding-left: 20px!important;
+
+}
+.input-group-append{
+    width: 50px;
+    background: #ebedf2;
+}
+.adjust-col-md{
+    /*padding-right: 15px;
+    padding-left: 10px;*/
+}
+
+.new-label-width{
+    width: 115px;
+    margin-right: 5px;
+}
+
+.new-input-width{
+    width: 80px;
+}
+
+.new-border-input{
+    border-radius: 7px;
+    padding: 0.4rem 0.575rem;
+}
+.apexcharts-legend{
+    bottom: 0px!important;
+}

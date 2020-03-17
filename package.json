@@ -1,0 +1,56 @@
+{
+  "name": "v0",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://127.0.0.1:5000",
+  "dependencies": {
+    "apexcharts": "^3.8.6",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "metismenu": "^3.0.4",
+    "modbus-stream": "^0.44.0",
+    "moment": "^2.24.0",
+    "react": "^16.9.0",
+    "react-apexcharts": "^1.3.3",
+    "react-dom": "^16.9.0",
+    "react-flatpickr": "^3.9.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.2",
+    "react-table": "^7.0.0-beta.9",
+    "tingodb": "^0.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",    
+    "server": "node ./server.js ",
+    "server-build ": "node ./server.js build",
+    "server-modbus": "node ./server.js modbus",
+    "demo": "node ./demo.js",
+    "start-server":"npm run server & npm start",
+    "start-server-modbus":"npm run server-modbus & npm start",
+    "start-demo":"npm run demo & npm run server & npm start",
+    "start-build":"node ./server.js build",
+    "start-all":"node ./server.js build modbus",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

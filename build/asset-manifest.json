@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f42a23ad.chunk.css",
+    "main.js": "/static/js/main.e38ed771.chunk.js",
+    "main.js.map": "/static/js/main.e38ed771.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33455c2b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33455c2b.js.map",
+    "static/css/2.4c26cdff.chunk.css": "/static/css/2.4c26cdff.chunk.css",
+    "static/js/2.032d2dd0.chunk.js": "/static/js/2.032d2dd0.chunk.js",
+    "static/js/2.032d2dd0.chunk.js.map": "/static/js/2.032d2dd0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c87620c544a28a5c038491241244d05.js": "/precache-manifest.6c87620c544a28a5c038491241244d05.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4c26cdff.chunk.css.map": "/static/css/2.4c26cdff.chunk.css.map",
+    "static/css/main.f42a23ad.chunk.css.map": "/static/css/main.f42a23ad.chunk.css.map",
+    "static/media/style.css": "/static/media/Ubuntu-Regular.e7da1b79.ttf",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/materialdesignicons.min.css": "/static/media/materialdesignicons-webfont.f6e66652.ttf"
+  }
+}
